@@ -1,0 +1,6 @@
+.DS_Store
+/ve
+/ve3
+.ipynb_checkpoints/
+__pycache__/
+kaggle-data/subset/
