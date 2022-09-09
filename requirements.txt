@@ -32,7 +32,7 @@ jupyter==1.0.0
 jupyter-client==5.0.1
 jupyter-console==5.1.0
 jupyter-core==4.3.0
-jupyterhub==0.7.2
+jupyterhub==1.5.0
 llvmlite==0.8.0
 Mako==1.0.6
 MarkupSafe==1.0
