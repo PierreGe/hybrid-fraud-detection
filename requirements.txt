@@ -34,7 +34,7 @@ jupyter-console==5.1.0
 jupyter-core==4.3.0
 jupyterhub==0.7.2
 llvmlite==0.8.0
-Mako==1.0.6
+Mako==1.2.2
 MarkupSafe==1.0
 matplotlib==1.5.3
 metakernel==0.17.4
